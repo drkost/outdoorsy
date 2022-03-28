@@ -21,3 +21,7 @@ Your application should be built around the provided `test/interview.spec.js`.
 When complete, please push your code to Github to your own account and send the link to the project or zip the project (including the `.git` directory) and send it back.
 
 Thank you and please ask if you have any questions!
+
+# Start outdorsy test suite with :
+- 1. go to outdory directory
+- 2. npx cypress run
